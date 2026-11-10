@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<b>This is a Heading</b>
+<em>This is a Heading</em>
+<small>This is a Heading</small>
+<p>This is a paragraph.</p>
+<img src="gambar.jpg" alt="Flowers in Chania" width="460" height="345">
+</body>
+</html> 
